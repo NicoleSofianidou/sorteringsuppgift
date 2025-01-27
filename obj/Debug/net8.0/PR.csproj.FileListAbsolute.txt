@@ -1,0 +1,14 @@
+C:\Users\niso07001\Programmering\PR1\bin\Debug\net8.0\PR.exe
+C:\Users\niso07001\Programmering\PR1\bin\Debug\net8.0\PR.deps.json
+C:\Users\niso07001\Programmering\PR1\bin\Debug\net8.0\PR.runtimeconfig.json
+C:\Users\niso07001\Programmering\PR1\bin\Debug\net8.0\PR.dll
+C:\Users\niso07001\Programmering\PR1\bin\Debug\net8.0\PR.pdb
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.AssemblyInfoInputs.cache
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.AssemblyInfo.cs
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.csproj.CoreCompileInputs.cache
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.dll
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\refint\PR.dll
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.pdb
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\PR.genruntimeconfig.cache
+C:\Users\niso07001\Programmering\PR1\obj\Debug\net8.0\ref\PR.dll
