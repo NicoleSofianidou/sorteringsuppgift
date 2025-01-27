@@ -102,4 +102,3 @@ static long RunInsertionSort(List<int>list)
     insertionwatch.Stop();
     return insertionwatch.ElapsedMilliseconds;
 }
-
