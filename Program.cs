@@ -26,14 +26,12 @@ Console.WriteLine($"Tid för bubblesort lista med 10000 element: {time} ms");
 time = RunBubblesort(list100000);
 Console.WriteLine($"Tid för bubblesort lista med 100000 element: {time} ms");
 
-
 //INSERTIONSORT
 list10 = GenerateRandomList(10,random);
 list100 = GenerateRandomList(100,random);
 list1000 = GenerateRandomList(1000,random);
 list10000 = GenerateRandomList(10000,random);
 list100000 = GenerateRandomList(100000,random);
-
 
 time = RunInsertionSort(list10);
 Console.WriteLine($"Tid för insertionsort lista med 10 element: {time} ms");
